@@ -8,5 +8,8 @@
   },
   "author": "",
   "license": "ISC",
-  "mongoURI":"mongodb+srv://gregd713:<19Ironman94!>@devconnector-zej44.mongodb.net/test?retryWrites=true&w=majority"
+  "dependencies": {
+    "config": "^3.3.6",
+    "mongoose": "^6.0.13"
+  }
 }
